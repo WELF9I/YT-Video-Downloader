@@ -5,7 +5,6 @@ async-timeout==4.0.3
 backports.tarfile==1.2.0
 beautifulsoup4==4.12.3
 blinker==1.8.2
-Brlapi==0.8.3
 Brotli==1.1.0
 catfish==4.16.4
 ccsm==0.9.14.1
