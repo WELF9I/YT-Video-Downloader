@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+0)270pv0*1jzr()n_6rwk5lbg9_zg^h_1opx9w$mdcrfncmqm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['downloady-z5a3.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
