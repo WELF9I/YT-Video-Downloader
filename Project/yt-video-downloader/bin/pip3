@@ -1,4 +1,4 @@
-#!/home/welf9i/Personal_Projects/YT-Video-Downloader-Django/Project/yt-video-downloader/bin/python3.12
+#!/home/welf9i/Personal_Projects/YT-Video-Downloader/Project/yt-video-downloader/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
